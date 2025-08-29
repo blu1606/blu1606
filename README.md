@@ -81,13 +81,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=blue-portfolio&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/blue-portfolio) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=time-locked-wallet-solana-lib&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/time-locked-wallet-solana-lib) &nbsp;
 ###
 
+<img src="https://github-readme-stats.vercel.app/api?username=blu1606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" style="margin:0;" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu1606&locale=en&hide_title=false&layout=compact&card_width=320&card_height=600&langs_count=5&theme=dracula&hide_border=false&order=2" height="1000" alt="languages graph" style="margin:0;" />&nbsp;
 
 
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=blu1606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" style="margin:0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu1606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="1000" alt="languages graph" style="margin:0;" />
-</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu1606&radius=16&theme=react&area=true&order=5" height="240" style="max-width:80%;" alt="activity-graph graph"  />
 </div>
