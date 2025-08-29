@@ -2,10 +2,10 @@
 
 ###
 
-<img align="right" height="90" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlncWY5Mzc5NHlyYTRzYzFuc29seTRremo2dzhrbTRmeDY1Zm55dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kudIERso2pFiE/giphy.gif"  />
+
 
 ###
-<!-- tech stack -->
+## 🛠️ Tech Stack
 <table align="center">
   <tr>
     <th>Frontend</th>
@@ -45,6 +45,7 @@
 <br clear="both">
 
 
+## 🌐 Social Media
 <div align="left">
   <a href="https://web.facebook.com/blue.hoang06/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -70,6 +71,7 @@
 
 ###
 
+## 📈 Commit History
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blu1606/blu1606/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blu1606/blu1606/output/pacman-contribution-graph.svg">
@@ -78,6 +80,7 @@
 
 ###
 
+## 🏆 GitHub Stats
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=blu1606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" style="margin:0;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu1606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" style="margin:0;" />
