@@ -1,16 +1,78 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is Blue and I'm a fullstack developer, from Vietnam</h2>
 
-<!--
-**blu1606/blu1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="90" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlncWY5Mzc5NHlyYTRzYzFuc29seTRremo2dzhrbTRmeDY1Zm55dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kudIERso2pFiE/giphy.gif"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blu1606/blu1606/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blu1606/blu1606/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blu1606/blu1606/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blu1606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu1606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="99" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu1606&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/blu1606/blu1606/output/snake.svg" alt="Snake animation" />
+
+###
