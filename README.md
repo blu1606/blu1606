@@ -62,15 +62,11 @@
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
   <a href="https://leetcode.com/u/blue106/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
 
-<div align="left">
-  <a href="https://github.com/blu1606" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
-</div>
+
 
 ###
 
@@ -85,6 +81,42 @@
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=blu1606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" style="margin:0;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu1606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" style="margin:0;" />
+</div>
+
+<div align="center">
+  <h3>Tech Stack</h3>
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Others</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu1606&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
