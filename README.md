@@ -100,4 +100,79 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413.1%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 186 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+🌆 Daytime                170 commits         ████████████░░░░░░░░░░░░░   48.99 % 
+🌃 Evening                104 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌙 Night                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Thursday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Friday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Saturday                 121 commits         █████████░░░░░░░░░░░░░░░░   34.87 % 
+Sunday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/08/2025 18:47:38 UTC
 <!--END_SECTION:waka-->
