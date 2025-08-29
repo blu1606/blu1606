@@ -46,23 +46,29 @@
 
 
 <div align="left">
-  <a href="https://web.facebook.com/blue.hoang06/" target="_blank">
+  <a href="https://web.facebook.com/blue.hoang06/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/h%E1%BB%93-t%E1%BA%A5t-b%E1%BA%A3o-ho%C3%A0ng-1678922a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/h%E1%BB%93-t%E1%BA%A5t-b%E1%BA%A3o-ho%C3%A0ng-1678922a7/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Blues83769245" target="_blank">
+  <a href="https://x.com/Blues83769245" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
   </a>
-  <a href="mailto:dongthanhquandtq@gmail.com">
+  <a href="mailto:dongthanhquandtq@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://p-i-x.slack.com/team/U0911BAMA13" target="_blank">
+  <a href="https://p-i-x.slack.com/team/U0911BAMA13" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
-  <a href="https://leetcode.com/u/blue106/" target="_blank">
+  <a href="https://leetcode.com/u/blue106/" target="_blank" rel="noopener noreferrer">
     <img src="icon/leetcode.svg" height="35" alt="leetcode logo" style="vertical-align: middle;" />
+  </a>
+</div>
+
+<div align="left">
+  <a href="https://github.com/blu1606" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
 </div>
 
