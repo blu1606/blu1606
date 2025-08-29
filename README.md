@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Blue and I'm a fullstack developer, from Vietnam</h2>
+<h2> Hi, I'm Blue! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 
 
 <div align="center" style="margin-top: 12px;">
@@ -98,3 +99,5 @@
 ###
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
