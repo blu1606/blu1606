@@ -78,7 +78,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blu1606/blu1606/output/pacman-contribution-graph.svg">
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=blue-portfolio&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/blue-portfolio) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=/time-locked-wallet-solana-lib&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/time-locked-wallet-solana-lib) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=blue-portfolio&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/blue-portfolio) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=time-locked-wallet-solana-lib&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/time-locked-wallet-solana-lib) &nbsp;
 ###
 
 
