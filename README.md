@@ -10,11 +10,8 @@
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
-    <th>DSA</th>
-    <th>CICD</th>
-    <th>Cloud</th>
+    <th>CICD & Cloud</th>
     <th>Blockchain</th>
-    <th>Design</th>
   </tr>
   <tr>
     <td align="center">
@@ -31,22 +28,14 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="28"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="28"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Anchor-4B2B36?style=for-the-badge&logo=anchor&logoColor=white" height="28"/>
     </td>
   </tr>
 </table>
