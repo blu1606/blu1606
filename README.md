@@ -3,7 +3,7 @@
 ###
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
-  <div style="flex: 1;">
+  <div style="flex: 1 1 0; min-width: 0;">
 
 ###
 <!-- tech stack -->
@@ -40,9 +40,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 
-</div>
-  <div style="flex: 0 0 auto;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlncWY5Mzc5NHlyYTRzYzFuc29seTRremo2dzhrbTRmeDY1Zm55dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kudIERso2pFiE/giphy.gif" height="180" alt="dog gif" />
+  </div>
+  <div style="flex: 0 0 240px; display: flex; justify-content: center; align-items: flex-start;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlncWY5Mzc5NHlyYTRzYzFuc29seTRremo2dzhrbTRmeDY1Zm55dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kudIERso2pFiE/giphy.gif" height="240" alt="dog gif" />
   </div>
 </div>
 
@@ -84,11 +84,14 @@
 
 ###
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blu1606&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu1606&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" height="60" alt="GitHub Streak" />
+</div>
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=blu1606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" style="margin:0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu1606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" style="margin:0;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blu1606&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" style="margin:0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu1606&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" style="margin:0;" />
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu1606&radius=16&theme=react&area=true&order=5" height="240" style="max-width:80%;" alt="activity-graph graph"  />
