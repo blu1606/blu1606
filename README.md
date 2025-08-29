@@ -27,6 +27,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu1606&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" height="200" alt="GitHub Streak" />
 </div>
 
+## 🧰 &nbsp;My toolbox
+
 <!-- tech stack -->
 <div align="center">
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
@@ -65,6 +67,9 @@
 
 
 
+
+
+
 ###
 
 <picture>
@@ -73,6 +78,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blu1606/blu1606/output/pacman-contribution-graph.svg">
 </picture>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=blue-portfolio&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/blue-portfolio) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blu1606&repo=/time-locked-wallet-solana-lib&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/blu1606/time-locked-wallet-solana-lib) &nbsp;
 ###
 
 
