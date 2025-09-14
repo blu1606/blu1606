@@ -110,8 +110,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 295 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -163,5 +161,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 18:39:32 UTC
+ Last Updated on 14/09/2025 18:40:25 UTC
 <!--END_SECTION:waka-->
