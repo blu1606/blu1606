@@ -100,17 +100,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-622.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-623.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 309 Contributions in the Year 2025
+> 🏆 310 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,34 +116,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-🌆 Daytime                245 commits         █████████░░░░░░░░░░░░░░░░   37.75 % 
-🌃 Evening                260 commits         ██████████░░░░░░░░░░░░░░░   40.06 % 
-🌙 Night                  126 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   184 commits         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Tuesday                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Wednesday                74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Thursday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Friday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Saturday                 136 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Sunday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,5 +133,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 18:44:08 UTC
+ Last Updated on 23/09/2025 18:45:14 UTC
 <!--END_SECTION:waka-->
