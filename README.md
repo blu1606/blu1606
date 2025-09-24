@@ -100,6 +100,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-623.0%20thousand%20lines%20of%20code-blue)
@@ -116,6 +118,34 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+🌆 Daytime                246 commits         █████████░░░░░░░░░░░░░░░░   37.85 % 
+🌃 Evening                260 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  126 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   184 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Tuesday                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Wednesday                74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Thursday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Friday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Saturday                 136 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Sunday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,5 +163,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 18:45:14 UTC
+ Last Updated on 24/09/2025 18:43:07 UTC
 <!--END_SECTION:waka-->
