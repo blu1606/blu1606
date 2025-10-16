@@ -100,15 +100,17 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 345 Contributions in the Year 2025
+> 🏆 351 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,6 +118,34 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌆 Daytime                256 commits         █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌃 Evening                279 commits         ██████████░░░░░░░░░░░░░░░   40.03 % 
+🌙 Night                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   186 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+Tuesday                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Friday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Saturday                 143 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Sunday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,5 +163,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:46:45 UTC
+ Last Updated on 16/10/2025 18:46:43 UTC
 <!--END_SECTION:waka-->
