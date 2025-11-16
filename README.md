@@ -100,17 +100,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 428 Contributions in the Year 2025
+> 🏆 385 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,42 +116,14 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-🌆 Daytime                280 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
-🌃 Evening                292 commits         █████████░░░░░░░░░░░░░░░░   35.83 % 
-🌙 Night                  190 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   187 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Tuesday                  135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Thursday                 68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Friday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Saturday                 153 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Sunday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -163,5 +133,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:43:23 UTC
+ Last Updated on 16/11/2025 18:44:10 UTC
 <!--END_SECTION:waka-->
