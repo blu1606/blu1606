@@ -100,15 +100,17 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.34%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.40%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 212.1 kB Used in GitHub's Storage 
+> 📦 212.6 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2026
+> 🏆 34 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,6 +118,38 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+🌆 Daytime                494 commits         ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌃 Evening                433 commits         █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌙 Night                  233 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   243 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Tuesday                  149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Thursday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Saturday                 250 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Sunday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.33 % 
+TypeScript               3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+HTML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,5 +167,5 @@ Move                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:48:40 UTC
+ Last Updated on 04/01/2026 18:49:01 UTC
 <!--END_SECTION:waka-->
