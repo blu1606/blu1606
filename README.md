@@ -99,9 +99,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.71%20million%20lines%20of%20code-blue?style=flat)
 
@@ -142,11 +142,11 @@ Sunday                   271 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
-Markdown                 1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Java                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown                 1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   36.12 % 
+Java                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+HTML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+SQL                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,5 +166,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 19:12:35 UTC
+ Last Updated on 06/02/2026 19:12:34 UTC
 <!--END_SECTION:waka-->
