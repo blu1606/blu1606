@@ -101,7 +101,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -142,11 +142,7 @@ Sunday                   271 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 53 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
-Bash                     38 mins             ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-JavaScript               29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,5 +162,5 @@ Move                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2026 19:15:10 UTC
+ Last Updated on 20/02/2026 19:11:29 UTC
 <!--END_SECTION:waka-->
