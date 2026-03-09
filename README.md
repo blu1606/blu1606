@@ -99,7 +99,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -107,7 +107,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 311.5 kB Used in GitHub's Storage 
+> 📦 311.4 kB Used in GitHub's Storage 
  > 
 > 🏆 484 Contributions in the Year 2026
  > 
@@ -142,11 +142,11 @@ Sunday                   271 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.63 % 
-Other                    1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Git Config               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+TypeScript               3 hrs 47 mins       █████████████░░░░░░░░░░░░   53.45 % 
+Other                    1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,5 +166,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 18:57:10 UTC
+ Last Updated on 09/03/2026 19:15:08 UTC
 <!--END_SECTION:waka-->
