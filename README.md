@@ -142,11 +142,11 @@ Sunday                   285 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 39 mins       █████████████░░░░░░░░░░░░   50.56 % 
-Go                       1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+JavaScript               2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.60 % 
+CSS                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+HTML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Go                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,5 +166,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 19:45:48 UTC
+ Last Updated on 22/04/2026 19:47:27 UTC
 <!--END_SECTION:waka-->
