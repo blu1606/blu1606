@@ -99,7 +99,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -142,11 +142,11 @@ Sunday                   285 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 46 mins       ███████████████████░░░░░░   74.63 % 
-Java                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Java Properties          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Markdown                 5 hrs 29 mins       ███████████████████░░░░░░   74.16 % 
+Python                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Java                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Java Properties          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,5 +166,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 19:33:50 UTC
+ Last Updated on 03/05/2026 19:33:33 UTC
 <!--END_SECTION:waka-->
