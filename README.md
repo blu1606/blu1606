@@ -103,28 +103,60 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 362.2 kB Used in GitHub's Storage 
+> 📦 363.8 kB Used in GitHub's Storage 
  > 
-> 🏆 632 Contributions in the Year 2026
+> 🏆 635 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                530 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+🌆 Daytime                739 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
+🌃 Evening                793 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌙 Night                  368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Tuesday                  261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Wednesday                379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Thursday                 392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Friday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Saturday                 537 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Sunday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 9 hrs 24 mins       ███████████████░░░░░░░░░░   61.55 % 
+Python                   5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               29 repos            ███████████░░░░░░░░░░░░░░   42.65 % 
-Python                   12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TypeScript               30 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
+Python                   12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
@@ -134,5 +166,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 20:17:56 UTC
+ Last Updated on 14/05/2026 20:14:14 UTC
 <!--END_SECTION:waka-->
