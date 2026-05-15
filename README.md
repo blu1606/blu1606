@@ -99,9 +99,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%204%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -117,38 +115,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                530 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-🌆 Daytime                739 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
-🌃 Evening                793 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌙 Night                  368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Tuesday                  261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Wednesday                379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Thursday                 392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Friday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Saturday                 537 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Sunday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 9 hrs 24 mins       ███████████████░░░░░░░░░░   61.55 % 
-Python                   5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -166,5 +132,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:14:14 UTC
+ Last Updated on 15/05/2026 20:00:58 UTC
 <!--END_SECTION:waka-->
