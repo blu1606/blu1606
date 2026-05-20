@@ -99,7 +99,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -109,7 +109,7 @@
 
 > 📦 363.8 kB Used in GitHub's Storage 
  > 
-> 🏆 643 Contributions in the Year 2026
+> 🏆 644 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,21 +120,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                531 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-🌆 Daytime                740 commits         ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌃 Evening                793 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌙 Night                  368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+🌞 Morning                533 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌆 Daytime                740 commits         ████████░░░░░░░░░░░░░░░░░   30.40 % 
+🌃 Evening                793 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌙 Night                  368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Tuesday                  261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Wednesday                379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Thursday                 392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Monday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Tuesday                  261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Wednesday                381 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Thursday                 392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 Friday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Saturday                 537 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Sunday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Saturday                 537 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Sunday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 
 
@@ -142,11 +142,11 @@ Sunday                   285 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   13 hrs 23 mins      ████████████░░░░░░░░░░░░░   48.17 % 
-Markdown                 6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Other                    3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Python                   9 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.99 % 
+Markdown                 6 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Other                    3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+YAML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JSON                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,5 +166,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blu1606/blu1606/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 20:13:02 UTC
+ Last Updated on 20/05/2026 20:36:06 UTC
 <!--END_SECTION:waka-->
